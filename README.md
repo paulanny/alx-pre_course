@@ -1,1 +1,1 @@
-this is the readme file for alx pre course students, let go check it out.
+my first readme 
